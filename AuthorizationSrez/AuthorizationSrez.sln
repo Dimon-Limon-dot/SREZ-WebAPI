@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationSrez", "AuthorizationSrez\AuthorizationSrez.csproj", "{A4D2FC95-C4B5-4CDC-B4D4-B013B169F45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D2FC95-C4B5-4CDC-B4D4-B013B169F45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D2FC95-C4B5-4CDC-B4D4-B013B169F45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D2FC95-C4B5-4CDC-B4D4-B013B169F45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D2FC95-C4B5-4CDC-B4D4-B013B169F45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9138E7D2-15F1-4F8D-B4A0-3554C8FE375A}
+	EndGlobalSection
+EndGlobal
